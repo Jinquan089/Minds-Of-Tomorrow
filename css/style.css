@@ -32,13 +32,17 @@
         font-weight: bold;
     }
     
+    .flex {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
     .column1 {
         padding-left: 6%;
         padding-right: 6%;
         float: left;
         width: 50%;
-        align-items: center;
-        justify-content: center;
     }
     
     .column1 p {
